@@ -1,4 +1,4 @@
-# logika-himpunan-dan-boolean
+# logika-himpunan-dan-operasi-boolean
 laporan praktium matematika
 ## laprak 1
 - Naja Syakira

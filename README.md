@@ -13,8 +13,8 @@ repository ini bertujuan untuk memenuhi tugas pratikum matematika diskrit, repos
 - syarat kelulusan
 - metode seleksi
 - jenis seleksi
-- seleksi beasiswa
-- keterangan keluusan
+- lulus prioritas 
+- keterangan kelulusan 
 - syarat beasiswa
 
 ## alur materi

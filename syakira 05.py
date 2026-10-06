@@ -1,8 +1,8 @@
 aktif = True
-nilai_memenuhi = True
+nilai_memenuhi = False
 prasyarat = True
 pengalaman = True
-sertifikat = False
+sertifikat = True
 
 # Model logika 
 lulus = aktif and nilai_memenuhi and prasyarat 

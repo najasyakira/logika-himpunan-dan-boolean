@@ -1,12 +1,12 @@
-aktif = False
-nilai_memenuhi = False
-prasyarat = False
-pengalaman = False
+aktif = True
+nilai_memenuhi = True
+prasyarat = True
+pengalaman = True
 sertifikat = False
 
 # Model logika 
 lulus = aktif and nilai_memenuhi and prasyarat 
-prioritas = pengalaman or sertifikat 
+prioritas = pengalaman ^ sertifikat 
 
 # Output hasil seleksi 
 if lulus:    

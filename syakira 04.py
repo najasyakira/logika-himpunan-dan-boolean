@@ -1,5 +1,5 @@
 aktif = True
-nilai_memenuhi = False
+nilai_memenuhi = True
 prasyarat = True
 pengalaman = True
 sertifikat = False

@@ -1,8 +1,10 @@
-| No. | Aktif | Nilai Memenuhi | Prasyarat | Pengalaman | Sertifikat | Hasil Lulus     | Hasil Prioritas              |
-|---|---|---|---|---|---|---|---|
-|   1 |  True |      True      |    True   |    True    |    True    | **LULUS**       | **Mendapat PRIORITAS**       |
-|   2 |  True |      False     |    True   |    False   |    True    | **TIDAK LULUS** | **Mendapat PRIORITAS**       |
-|   3 |  True |      True      |    True   |    False   |    True    | **LULUS**       | **Mendapat PRIORITAS**       |
-|   4 |  True |      True      |    True   |    True    |    False   | **LULUS**       | **Tidak mendapat prioritas** |
-|   5 |  True |      False     |    True   |    True    |    True    | **TIDAK LULUS** | **Mendapat PRIORITAS**       |
-|   6 | False |      False     |   False   |    False   |    False   | **TIDAK LULUS** | **Tidak mendapat prioritas** |
+| No.   | Aktif | Nilai Memenuhi | Prasyarat | Pengalaman | Sertifikat | Hasil `lulus` | Hasil `prioritas` | Output                                    |
+|---|---|---|---|---|---|---|---|---|
+| **1** | True  | False          | True      | False      | True       | False         | True              | **TIDAK LULUS**, mendapat PRIORITAS       |
+| **2** | True  | True           | True      | False      | True       | True          | True              | **LULUS**, mendapat PRIORITAS             |
+| **3** | False | False          | False     | False      | False      | False         | False             | **TIDAK LULUS**, tidak mendapat prioritas |
+| **4** | True  | True           | True      | True       | True       | True          | True              | **LULUS**, mendapat PRIORITAS             |
+| **5** | True  | True           | True      | True       | False      | True          | True              | **LULUS**, mendapat PRIORITAS             |
+| **6** | True  | True           | True      | False      | True       | True          | True              | **LULUS**, mendapat PRIORITAS             |
+| **7** | True  | True           | True      | False      | True       | True          | True              | **LULUS**, mendapat PRIORITAS             |
+| **8** | True  | True           | True      | False      | True       | True          | True              | **LULUS**, mendapat PRIORITAS             |

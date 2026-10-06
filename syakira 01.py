@@ -1,7 +1,7 @@
 aktif = True
-nilai_memenuhi = False
+nilai_memenuhi = True
 prasyarat = True
-pengalaman = False
+pengalaman = True
 sertifikat = True
 
 # Model logika 

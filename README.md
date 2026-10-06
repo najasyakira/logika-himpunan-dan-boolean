@@ -16,6 +16,7 @@ repository ini bertujuan untuk memenuhi tugas pratikum matematika diskrit, repos
 - lulus prioritas 
 - keterangan kelulusan 
 - syarat beasiswa
+- metode penilaian 
 
 ## alur materi
 - AND

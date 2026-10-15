@@ -8,3 +8,15 @@
 | **6** | True  | True           | True      | False      | True       | True          | True              | **LULUS**, mendapat PRIORITAS             |
 | **7** | True  | True           | True      | False      | True       | True          | True              | **LULUS**, mendapat PRIORITAS             |
 | **8** | True  | True           | True      | False      | True       | True          | True              | **LULUS**, mendapat PRIORITAS             |
+
+| No. | Nilai | Kehadiran | Output | Logika |
+|---|---|---|---|---|
+| 1 | T | T | T | AND |
+| 2 | T | F | F | AND |
+| 3 | F | T | F | AND |
+
+| No. | Akademik | Nonakademik | Output | Logika |
+|---|---|---|---|---|
+| 1 | F | T | T | OR |
+| 2 | T | F | T | OR |
+| 3 | F | F | F | OR |

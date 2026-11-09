@@ -1,5 +1,5 @@
 # logika-himpunan-dan-operasi-boolean
-laporan praktium matematika
+laporan praktium matematika Diskrit 
 ## laprak 1
 - Naja Syakira
 - 260306014
